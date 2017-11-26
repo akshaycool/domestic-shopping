@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item
+        android:id="@+id/side_navigation_menu_item1"
+        
+        android:title="@string/prod1"/>
+    <item
+        android:id="@+id/side_navigation_menu_item2"
+        android:title="@string/prod2"/>
+    <item
+        android:id="@+id/side_navigation_menu_item3"        
+        android:title="@string/prod3"/>
+    <item
+        android:id="@+id/side_navigation_menu_item4"
+        android:title="@string/prod4"/>
+    <item
+        android:id="@+id/side_navigation_menu_item5"
+        android:title="@string/prod5"/>
+    <item
+        android:id="@+id/side_navigation_menu_item6"
+        android:title="@string/prod6"/>
+    <item
+        android:id="@+id/side_navigation_menu_item7"
+        android:title="@string/prod7"/>
+    <item
+        android:id="@+id/side_navigation_menu_item8"
+        android:title="@string/prod8"/>
+    <item
+        android:id="@+id/side_navigation_menu_item9"
+        android:title="@string/prod9"/>
+    <item
+        android:id="@+id/side_navigation_menu_item10"
+        android:title="@string/prod10"/>
+     
+
+</menu>

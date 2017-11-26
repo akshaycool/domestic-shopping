@@ -1,0 +1,50 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/White"
+    tools:context=".MenuActivity">
+    
+       <ListView
+       android:id="@android:id/list"
+       android:paddingTop="30dp"
+       android:layout_width="wrap_content"
+       android:layout_height="match_parent"
+       android:layout_marginTop="50dp"
+       android:divider="@color/Aqua" 
+       android:dividerHeight="5dp"
+       > 
+       </ListView>
+            
+       <com.devspark.sidenavigation.SideNavigationView
+            android:id="@+id/side_navigation_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" >         
+        </com.devspark.sidenavigation.SideNavigationView>
+
+       <TextView
+           android:id="@+id/textView1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignBottom="@+id/imageView1"
+           android:layout_toRightOf="@+id/imageView1"
+           android:text="Use this left top most button to choose your category"
+           android:textStyle="italic"
+           android:typeface="serif"
+           android:textSize="15sp"
+           android:textColor="@color/Black"
+           />
+
+       <ImageView
+           android:id="@+id/imageView1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_below="@+id/side_navigation_view"
+           android:layout_marginLeft="36dp"
+           android:layout_toRightOf="@+id/side_navigation_view"
+           android:src="@drawable/arrow" />
+
+</RelativeLayout>

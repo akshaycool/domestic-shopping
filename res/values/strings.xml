@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maalgaadiapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prod1">Baby Care</string>
+    <string name="prod2">Beverages</string>
+    <string name="prod3">Confectionery</string>
+    <string name="prod4">Dairy Products</string>
+    <string name="prod5">Frozen Food</string>
+    <string name="prod6">Grocery</string>
+    <string name="prod7">Health Care</string>
+    <string name="prod8">Household Essentials</string>
+    <string name="prod9">Packed Food</string>
+    <string name="prod10">Personal Care</string>
+    <string name="mode">Mode</string>
+    <string name="mode_left">Left</string>
+    <string name="mode_right">Right</string>
+    <string name="image_desc">Image</string>
+    <string name="title_activity_sub_categorylist">SubCategorylist</string>
+    <string name="action_bar_button_search">Search</string>
+    <string name="Product_search">Search For Product</string>
+    <!--
+<string-array name="BABYCARE"
+        
+<item > Accesories</item>
+<item>Baby Cream</item>
+<item>Baby Cure</item    
+<item>Baby Diapers</item>
+<item>Baby Food</item
+<item>Baby Hair Oil</item>
+<item>Baby Lotion</item>
+<item>Baby Oil</item>
+<item>Baby Powder</item>
+<item>Baby Shampoo</item>
+<item>Baby Soap</item>
+<item>Baby Wipes</item>
+<item>Dental Care</item>
+<item>Diapers</item>
+<item>Hair Oil</item>
+<item>Milk Cream</item>
+<item>Tip-to Toe</item>
+</string-array>
+    -->
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_advanced_search">AdvancedSearch</string>
+
+</resources>
